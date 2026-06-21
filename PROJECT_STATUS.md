@@ -1,8 +1,13 @@
 # blockchain_indexer - Project Status
 
-## Status: ✅ PRODUCTION-READY
+## Status: ✅ Core Pipeline Complete (Portfolio Ready)
 
-**Purpose**: Hybrid batch processing blockchain indexer combining best practices
+**Purpose**: Demonstrate a hybrid batch-processing blockchain indexer with modular services, observability, and operational safeguards.
+
+## Readiness Notes
+- Core collection, processing, and gap-management flow is implemented and documented.
+- Operational features (retry logic, metrics, and graceful shutdown) are present.
+- Full automated test coverage and deployment automation are planned next steps.
 
 ## Architecture
 - Batch processing with configurable sizes

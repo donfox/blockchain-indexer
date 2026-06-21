@@ -1,6 +1,6 @@
 # Blockchain Indexer
 
-A production-ready blockchain block indexer that combines batch processing with multiprocessing for efficient block collection and gap detection.
+A blockchain block indexer that combines batch processing with multiprocessing for efficient block collection and gap detection.
 
 ## Overview
 
@@ -318,7 +318,9 @@ export PRETTY_PRINT_JSON=false    # Minified JSON
 
 ## License
 
-Developed by Don Fox - 2025
+This project is proprietary and confidential. Usage, copying, modification, or distribution is not permitted without prior written consent from the owner.
+
+See [LICENSE](LICENSE) for full terms.
 
 ## Support
 
