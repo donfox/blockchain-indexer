@@ -1,5 +1,7 @@
 # Blockchain Indexer
 
+> **eMRTS Intern Project:** This project is one of four instructional projects developed as part of intern training at eMRTS.
+
 A blockchain block indexer that combines batch processing with multiprocessing for efficient block collection and gap detection.
 
 ## Overview
